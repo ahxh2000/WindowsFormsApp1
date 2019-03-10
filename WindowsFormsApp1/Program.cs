@@ -21,6 +21,7 @@ namespace WindowsFormsApp1
             //Application.Run(new Form1());
             Application.Run(new Form1());
             fdsasfasdf
+                test
             //Application.Run(new Form1())33;
         }
     }
